@@ -20,3 +20,5 @@ Description:
 This small game project is a great practise for us to improve our coding skills. Thanks everyone in my team for contributing!
 
 Thank you for playing our game!
+
+Source code available here: https://github.com/kenjicod3/promptkemon-source-code
